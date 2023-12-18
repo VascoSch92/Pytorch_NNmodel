@@ -1,6 +1,5 @@
-# Neural network for tabular data (Pytorch_lightning)
+# Neural network for tabular data with pytprch lightning
 
-The repository contains the two basic classes to construct a neural network model with Pytorch lightning starting from tabular data. 
-The script NNdataset.py contains the code to create a dataset, while the script NNmodel.py contains the code to create a neural network model. 
+The repository includes two classes for constructing a neural network model for tabular data using PyTorch Lightning. The script NNdataset.py comprises the code for generating a dataset, while the script NNmodel.py encompasses the code for building a neural network model.
 
-Let me know if you have any advice (or criticism) on how to improve the code
+Feel free to share any advice or constructive criticism you may have to enhance the code.
